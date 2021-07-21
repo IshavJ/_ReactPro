@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/_ReactPro/static/css/main.11fc8e05.chunk.css",
+    "main.js": "/_ReactPro/static/js/main.377eedd5.chunk.js",
+    "main.js.map": "/_ReactPro/static/js/main.377eedd5.chunk.js.map",
+    "runtime-main.js": "/_ReactPro/static/js/runtime-main.a780f8af.js",
+    "runtime-main.js.map": "/_ReactPro/static/js/runtime-main.a780f8af.js.map",
+    "static/css/2.4be38407.chunk.css": "/_ReactPro/static/css/2.4be38407.chunk.css",
+    "static/js/2.22b0a299.chunk.js": "/_ReactPro/static/js/2.22b0a299.chunk.js",
+    "static/js/2.22b0a299.chunk.js.map": "/_ReactPro/static/js/2.22b0a299.chunk.js.map",
+    "static/js/3.45773751.chunk.js": "/_ReactPro/static/js/3.45773751.chunk.js",
+    "static/js/3.45773751.chunk.js.map": "/_ReactPro/static/js/3.45773751.chunk.js.map",
+    "index.html": "/_ReactPro/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/_ReactPro/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.11fc8e05.chunk.css.map": "/_ReactPro/static/css/main.11fc8e05.chunk.css.map",
+    "static/js/2.22b0a299.chunk.js.LICENSE.txt": "/_ReactPro/static/js/2.22b0a299.chunk.js.LICENSE.txt",
+    "static/media/lol1.dabc83fa.svg": "/_ReactPro/static/media/lol1.dabc83fa.svg",
+    "static/media/lol2.9e241b4e.svg": "/_ReactPro/static/media/lol2.9e241b4e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a780f8af.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.22b0a299.chunk.js",
+    "static/css/main.11fc8e05.chunk.css",
+    "static/js/main.377eedd5.chunk.js"
+  ]
+}
